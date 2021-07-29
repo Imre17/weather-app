@@ -1,0 +1,16 @@
+{
+  "name": "weather-_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d project"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https//Imre17.github.io/weather-app",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
